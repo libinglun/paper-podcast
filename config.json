@@ -1,0 +1,20 @@
+{
+  "zotero": {
+    "source_collection": "To Review",
+    "target_collection": "Listened",
+    "processed_tag": "podcast-generated"
+  },
+  "delivery": {
+    "frequency": "daily",
+    "time": "08:00",
+    "target_email": "binglunli1029@gmail.com"
+  },
+  "notebooklm": {
+    "format": "deep-dive",
+    "length": "default",
+    "focus": null,
+    "cleanup_notebooks": true,
+    "generation_timeout_minutes": 15
+  },
+  "onboarding_complete": true
+}
